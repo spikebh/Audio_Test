@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 678, y: 471}
   m_MaxSize: {x: 14000, y: 14021}
   vertical: 0
-  controlID: 3616
+  controlID: 91
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 471}
   m_MaxSize: {x: 10000, y: 14021}
   vertical: 1
-  controlID: 3585
+  controlID: 92
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 3586
+  controlID: 93
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -222,7 +222,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 72fbffffe0480000
+      m_ExpandedIDs: dae1ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -311,9 +311,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.06855179, y: 1.683954, z: -1.1354946}
+    m_Target: {x: -1.372435, y: 0.8670093, z: 0.46652007}
     speed: 2
-    m_Value: {x: -0.06855179, y: 1.683954, z: -1.1354946}
+    m_Value: {x: -1.372435, y: 0.8670093, z: 0.46652007}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -360,13 +360,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.17319575, y: 0.13748364, z: -0.024440736, w: -0.97496957}
+    m_Target: {x: -0.07245547, y: 0.666963, z: -0.06547752, w: -0.7387076}
     speed: 2
-    m_Value: {x: -0.17319043, y: 0.13747941, z: -0.024439983, w: -0.9749396}
+    m_Value: {x: -0.0724531, y: 0.6669411, z: -0.065475374, w: -0.7386834}
   m_Size:
-    m_Target: 0.049978875
+    m_Target: 0.049366068
     speed: 2
-    m_Value: 0.049978875
+    m_Value: 0.049366068
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -483,22 +483,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materials
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 95
   m_LastFolders:
-  - Assets/Materials
+  - Assets
   m_LastFoldersGridSize: 95
-  m_LastProjectPath: C:\Users\spike\Audio Test
+  m_LastProjectPath: C:\Users\spike\Audio Test\Audio_Test
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 16520000
-    m_LastClickedID: 21014
-    m_ExpandedIDs: 00000000ea510000ec510000ee510000f0510000f2510000f4510000f65100008e53000000ca9a3b
+    m_SelectedIDs: 4e630000
+    m_LastClickedID: 25422
+    m_ExpandedIDs: 000000004e63000050630000526300005463000056630000586300005a6300005c63000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -526,7 +526,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ea510000ec510000ee510000f0510000f2510000f4510000f65100008e53000000ca9a3b
+    m_ExpandedIDs: 000000004e63000050630000526300005463000056630000586300005a6300005c630000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -551,9 +551,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 50490000
-    m_LastClickedInstanceID: 18768
-    m_HadKeyboardFocusLastEvent: 1
+    m_SelectedInstanceIDs: da200000
+    m_LastClickedInstanceID: 8410
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300009e7800009a6d0000584c00008a5a000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -627,8 +627,8 @@ MonoBehaviour:
     y: 0
     width: 582
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -668,7 +668,7 @@ MonoBehaviour:
     m_CachedPref: 160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: 18768
+  m_LastInspectedObjectInstanceID: 8410
   m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_LockTracker:
